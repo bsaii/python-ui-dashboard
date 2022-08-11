@@ -53,6 +53,7 @@ python manage.py migrate
 ```
 
 **Step #4** - Start the application (development mode )
+
 You can start the application in development mode by running the following command:
 
 ```cmd
@@ -64,6 +65,7 @@ python manage.py runserver
 ```
 
 **Recommendation for running the application in development mode**
+
 For an automated workflow using gulp, you can use the following commands:
 
 > Before running the following commands, make sure you have [Node.js](https://nodejs.org/en/download/) and [gulp](https://gulpjs.com/docs/en/getting-started/quick-start) installed.
