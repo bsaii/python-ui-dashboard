@@ -26,10 +26,12 @@ cd ui-dashboard
 # macOS/Linux
 # You may need to run sudo apt-get install python3-venv first
 python3 -m venv .venv
+.venv/scripts/activate # activate virtual environment
 
 # Windows
 # You can also use python -m venv .venv or py -3 -m venv .venv
 py -m venv .venv
+.venv/scripts/activate # activate virtual environment
 ```
 
 **Step #2** - Install modules
